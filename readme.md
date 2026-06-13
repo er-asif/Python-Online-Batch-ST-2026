@@ -16,8 +16,7 @@ This repository contains the source code, examples, and practice programs covere
 
 ## Prerequisites
 
-* Python 3.x
-* VS Code (Recommended)
+* Python 3.12.1
 
 ## Note
 
