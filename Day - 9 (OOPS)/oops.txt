@@ -1,0 +1,39 @@
+OOPs - Object Oriented Programming System
+
+OOPS is a paradigm/approach for programming which Classes and objects.
+And it provide security and reusability.
+
+
+Class - Blueprints of objects
+	or
+	Class is a collection data member and member functions
+	
+Object - Object is an instance of class.
+
+
+class Animal:
+	def run(self):
+		print("Runing....")
+	def eat(self):
+		print("Eating....")
+
+dog = Animal()
+dog.run()
+dog.eat()
+
+
+class variable / static variable - var_name = "Value"
+instance variable / non-static variable  - self.var_name 
+
+
+Constructor - It is special type of method of class.
+	          It gets called by itself when we create object of a class.
+	          It is used to initialize values of instance variables.
+	      
+
+class Animal:
+	def __init__(self):
+		pass
+
+obj = Animal()
+
