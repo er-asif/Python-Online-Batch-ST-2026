@@ -1,0 +1,19 @@
+Pillers of OOPS - 
+
+1. Inheritance - 
+2. Polymorphism - 
+3. Encapsulation -   
+4. Abstraction - 
+
+Inheritance :-
+
+    Inheriting the properties(variables) and methods(functions) from Parent Class in Child
+    class is known as Inheritance.
+
+Types of Inheritance in Python -
+
+1. Single Level Inheritance
+2. Multilevel Inheritance
+3. Multiple Inheritance
+4. Hierarchical Inheritance
+5. Hybrid Inheritance
