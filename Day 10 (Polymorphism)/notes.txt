@@ -1,0 +1,22 @@
+Pillers of OPP
+
+1. Inheritance - 
+2. Polymorphism - many forms
+3. Encapsulation
+4. Abstraction
+
+Polymorphism means many forms.
+When there same method and we do perform different functionalities then this is known as Polymorphism
+
+# int + int = summation
+# str + str = concatenation
+
+There are two types of Polymorphism - 
+    1. Method Overloading - compile time (Python do not support this directly) 
+    2. Method Overriding - runtime 
+
+
+
+
+Create two classes Car and Bike with a method start(). 
+Show Polymorphism in this (Overriding).

@@ -1,0 +1,33 @@
+Abstraction in Python - 
+
+Abstraction is hiding the implementation details and showing only essential information.
+In python we can do Abstraction by using abc module.
+In abc module we ABC class abstractmethod
+
+Abstract class - It contains only abstractmethods and it can be directly instanciated.
+Abstract Method - It contains only declaration.
+
+Ex - Car - start()
+_____________________________________________________________
+
+Encapsulation in Python - 
+
+Binding of data (variables) and methods (fucntions) in single unit (class) is known
+Encapsulation.
+
+It is used restricition (security purpose).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,10 @@
+Exception - Abnormal termination of program. 
+            Run time errors are Exceptions
+
+Exception handling - Identifying the Exceptions and handling them is known Exception handling.
+
+In python, we do Exception handling using - 
+
+1. try - 
+2. except -  
+3. finally - 
