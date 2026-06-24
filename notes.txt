@@ -1,0 +1,7 @@
+Strings - 
+    In python string is immutable.
+    It it indexed.
+
+name = "Softpro India"
+
+print(name[0])
