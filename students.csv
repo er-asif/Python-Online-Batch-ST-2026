@@ -1,0 +1,101 @@
+Student_ID,Name,Age,Gender,City,Course,Marks,Attendance,Grade,Fee_Status
+1001,Aarav,22,Male,Pune,Data Science,,,D,Paid
+1002,Aditya,21,Male,Pune,Java,,94.0,B,Pending
+1003,Tanya,18,Female,Mumbai,C++,89.0,,B,Pending
+1004,Aditya,24,Male,Delhi,AI,79.0,62.0,A,Pending
+1005,Kabir,23,Male,Patna,Data Science,,74.0,A,Paid
+1006,Aman,22,Male,Bhopal,C++,,83.0,B,Pending
+1007,Rohan,26,Male,Pune,Data Science,94.0,,C,Paid
+1008,Vivaan,23,Male,Noida,AI,,96.0,B,Pending
+1009,Sakshi,25,Female,Mumbai,AI,,95.0,D,Pending
+1010,Neha,20,Female,Indore,Web Development,,,B,Pending
+1011,Aman,24,Male,Patna,Web Development,,67.0,C,Paid
+1012,Meera,20,Female,Bhopal,Python,,,C,Paid
+1013,Nikhil,20,Male,Indore,Java,35.0,,A,Pending
+1014,Neha,18,Female,Pune,Java,,,B,Paid
+1015,Pooja,20,Female,Jaipur,Java,,,C,Pending
+1016,Ishita,26,Female,Bhopal,Python,,64.0,A,Paid
+1017,Aarav,19,Male,Lucknow,Data Science,,,B,Pending
+1018,Neha,26,Female,Mumbai,C++,,90.0,B,Paid
+1019,Deepak,23,Male,Noida,Web Development,,,D,Pending
+1020,Rahul,21,Male,Pune,Java,,,C,Pending
+1021,Aditya,25,Male,Indore,Python,,,B,Pending
+1022,Ishita,21,Female,Noida,Python,56.0,60.0,C,Pending
+1023,Meera,26,Female,Bhopal,Data Science,59.0,,A,Pending
+1024,Vivaan,25,Male,Indore,Java,,,B,Paid
+1025,Rahul,24,Male,Delhi,Java,,,D,Pending
+1026,Neha,23,Female,Pune,AI,,79.0,C,Paid
+1027,Ankit,19,Male,Delhi,Java,62.0,68.0,A,Paid
+1028,Aisha,20,Female,Bhopal,Java,,95.0,A,Paid
+1029,Priya,19,Female,Indore,Data Science,69.0,,C,Paid
+1030,Pooja,25,Female,Jaipur,Python,46.0,,A,Pending
+1031,Arjun,20,Male,Bhopal,Java,,,B,Paid
+1032,Ritika,26,Female,Mumbai,Web Development,,79.0,A,Pending
+1033,Rahul,19,Male,Kanpur,Java,,,B,Pending
+1034,Rohan,23,Male,Noida,C++,66.0,,D,Paid
+1035,Neha,21,Female,Bhopal,AI,,,B,Pending
+1036,Aisha,19,Female,Jaipur,AI,100.0,94.0,A,Paid
+1037,Sneha,22,Female,Lucknow,Python,90.0,80.0,A,Pending
+1038,Arjun,18,Male,Noida,Python,60.0,,C,Pending
+1039,Kabir,26,Male,Jaipur,C++,87.0,85.0,B,Paid
+1040,Sakshi,24,Female,Mumbai,Java,73.0,,C,Pending
+1041,Deepak,23,Male,Bhopal,Web Development,,92.0,B,Paid
+1042,Pooja,23,Female,Delhi,Data Science,,,A,Paid
+1043,Harsh,19,Male,Bhopal,Web Development,59.0,91.0,B,Paid
+1044,Mohammad,24,Male,Pune,Data Science,,,A,Pending
+1045,Ankit,26,Male,Indore,Java,75.0,99.0,D,Paid
+1046,Ishita,22,Female,Pune,C++,70.0,,C,Pending
+1047,Kabir,21,Male,Jaipur,AI,,,B,Pending
+1048,Karan,19,Male,Noida,Web Development,77.0,,B,Pending
+1049,Tanya,18,Female,Patna,Web Development,,82.0,D,Pending
+1050,Harsh,21,Male,Jaipur,Web Development,,84.0,D,Paid
+1051,Sneha,26,Female,Lucknow,Web Development,,,D,Paid
+1052,Arjun,24,Male,Kanpur,Data Science,93.0,81.0,C,Pending
+1053,Priya,25,Female,Lucknow,C++,41.0,,A,Paid
+1054,Karan,18,Male,Patna,Data Science,,,B,Pending
+1055,Tanya,23,Female,Mumbai,Java,,,A,Pending
+1056,Meera,21,Female,Delhi,Java,,,A,Pending
+1057,Sakshi,23,Female,Delhi,Java,,86.0,A,Pending
+1058,Sakshi,25,Female,Mumbai,Web Development,57.0,99.0,D,Pending
+1059,Zoya,21,Female,Delhi,AI,,89.0,C,Paid
+1060,Zoya,20,Female,Bhopal,Data Science,80.0,81.0,C,Paid
+1061,Aditya,21,Male,Noida,Web Development,65.0,91.0,A,Paid
+1062,Neha,24,Female,Pune,AI,82.0,95.0,D,Pending
+1063,Simran,25,Female,Jaipur,AI,,,C,Paid
+1064,Karan,21,Male,Bhopal,AI,,72.0,B,Pending
+1065,Kabir,18,Male,Indore,Data Science,,63.0,B,Pending
+1066,Aarav,22,Male,Bhopal,Web Development,91.0,,C,Pending
+1067,Aditya,24,Male,Bhopal,Python,,69.0,A,Paid
+1068,Deepak,21,Male,Indore,Web Development,92.0,79.0,C,Paid
+1069,Karan,21,Male,Jaipur,C++,,,A,Paid
+1070,Deepak,25,Male,Patna,Web Development,,74.0,C,Pending
+1071,Rahul,22,Male,Patna,C++,60.0,,B,Pending
+1072,Aditya,18,Male,Mumbai,AI,71.0,67.0,C,Pending
+1073,Pooja,26,Female,Bhopal,Web Development,,87.0,C,Paid
+1074,Rahul,18,Male,Jaipur,Java,,90.0,C,Paid
+1075,Sakshi,25,Female,Delhi,Web Development,79.0,81.0,A,Paid
+1076,Meera,25,Female,Jaipur,C++,,,C,Pending
+1077,Priya,24,Female,Indore,Python,94.0,,C,Pending
+1078,Tanya,18,Female,Pune,AI,51.0,88.0,A,Paid
+1079,Rohan,22,Male,Indore,Python,,,D,Paid
+1080,Harsh,22,Male,Indore,C++,69.0,90.0,B,Pending
+1081,Aman,21,Male,Patna,Java,,77.0,C,Pending
+1082,Kabir,22,Male,Patna,Java,,88.0,C,Pending
+1083,Ishita,23,Female,Pune,C++,65.0,74.0,A,Pending
+1084,Simran,24,Female,Noida,C++,54.0,,C,Paid
+1085,Priya,26,Female,Bhopal,Python,53.0,,D,Pending
+1086,Ritika,24,Female,Delhi,AI,83.0,100.0,A,Paid
+1087,Kabir,21,Male,Delhi,Web Development,,,C,Paid
+1088,Yash,18,Male,Jaipur,AI,82.0,,D,Paid
+1089,Rohan,19,Male,Patna,Web Development,65.0,,B,Pending
+1090,Ishita,22,Female,Lucknow,Web Development,,64.0,C,Pending
+1091,Simran,22,Female,Bhopal,AI,60.0,,B,Pending
+1092,Ritika,22,Female,Jaipur,Python,85.0,,D,Pending
+1093,Nikhil,21,Male,Pune,Java,,,A,Pending
+1094,Ananya,23,Female,Mumbai,Python,72.0,,B,Paid
+1095,Pooja,26,Female,Jaipur,Data Science,67.0,78.0,A,Pending
+1096,Asif,21,Male,Noida,Java,,,C,Paid
+1097,Zoya,22,Female,Patna,Web Development,,74.0,A,Pending
+1098,Aditya,25,Male,Jaipur,C++,,,A,Pending
+1099,Priya,19,Female,Pune,Java,52.0,89.0,D,Paid
+1100,Sakshi,19,Female,Bhopal,Java,87.0,62.0,B,Pending
